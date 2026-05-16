@@ -56,7 +56,7 @@ function showTasks(){
     class="edit-btn"
     onclick="editTask(${i})"
 >
-    🖉
+    Edit
 </button>
 
                 <button 
